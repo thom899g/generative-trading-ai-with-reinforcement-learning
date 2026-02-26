@@ -1,0 +1,2 @@
+# generative-trading-ai-with-reinforcement-learning
+**TITLE: Generative Trading AI with Reinforcement Learning****DESCRIPTION:**  This system leverages generative AI models to create dynamic trading strategies and employs reinforcement learning for real-time adaptation. It integrates diverse data sources to identify emerging patterns, ensuring robust decision-making across various market conditions.
